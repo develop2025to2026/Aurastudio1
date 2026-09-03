@@ -1,0 +1,6 @@
+{
+  "name": "Aura Studio - Premium Architecture & Interior Design",
+  "description": "A luxury, production-ready client website for high-end architectural design, turnkey construction, and bespoke interior spaces in Colombo, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
